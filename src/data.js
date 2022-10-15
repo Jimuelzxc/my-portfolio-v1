@@ -55,6 +55,10 @@ export const ProjectsData = {
             link: "https://www.behance.net/gallery/153526195/SQUAD-VALORANT"
         },
         {
+            thumbnail: "https://mir-s3-cdn-cf.behance.net/project_modules/fs/1b71c8153243399.632c19b872658.jpg",
+            link: "https://www.behance.net/gallery/153243399/First-crazy-human-in-doughnut"
+        },
+        {
             thumbnail: "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/4ea676153439957.632ff826d4297.jpg",
             link: "https://www.behance.net/gallery/153439957/Headers-2"
         },
