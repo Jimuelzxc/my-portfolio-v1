@@ -25,7 +25,8 @@ export const IconsData = {
 export const ProjectsData = {
     tech: [
         {
-            thumbnail: "https://raw.githubusercontent.com/Jimuelzxc/shopme/main/mockup/shopme.jpg"
+            thumbnail: "https://raw.githubusercontent.com/Jimuelzxc/shopme/main/mockup/shopme.jpg",
+            link: "https://jimuelzxc.github.io/shopme"
         },
         {
             thumbnail: "https://mir-s3-cdn-cf.behance.net/project_modules/fs/d4dab9154893985.634a745fbbdab.jpg"
