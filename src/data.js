@@ -25,7 +25,10 @@ export const IconsData = {
 export const ProjectsData = {
     tech: [
         {
-            thumbnail: "https://github.com/Jimuelzxc/ecommerce-site/blob/main/src/assets/screenshots/Homepage.jpg?raw=true"
+            thumbnail: "https://raw.githubusercontent.com/Jimuelzxc/shopme/main/mockup/shopme.jpg"
+        },
+        {
+            thumbnail: "https://mir-s3-cdn-cf.behance.net/project_modules/fs/d4dab9154893985.634a745fbbdab.jpg"
         },
         {
             thumbnail: "https://github.com/Jimuelzxc/login-with-session-mern/blob/main/src/assets/screenshots/UI-signin-lightmode.png?raw=true"
