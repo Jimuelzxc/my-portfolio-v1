@@ -54,6 +54,10 @@ export const ProjectsData = {
             link: "https://www.behance.net/gallery/153526195/SQUAD-VALORANT"
         },
         {
+            thumbnail: "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/4ea676153439957.632ff826d4297.jpg",
+            link: "https://www.behance.net/gallery/153439957/Headers-2"
+        },
+        {
             thumbnail: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4cf828153386665.632ea60515b83.jpg",
             link: "https://www.behance.net/gallery/153386665/Stephen-Curry"
         }
