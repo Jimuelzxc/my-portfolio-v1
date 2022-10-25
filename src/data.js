@@ -24,6 +24,10 @@ export const IconsData = {
 }
 export const ProjectsData = {
     tech: [
+				{
+						thumbnail: "https://raw.githubusercontent.com/Jimuelzxc/discord-shorts/main/src/assets/discord-shorts.jpg",
+						link: "https://jimuelzxc.github.io/discord-shorts"
+				},
         {
             thumbnail: "https://raw.githubusercontent.com/Jimuelzxc/shopme/main/mockup/shopme.jpg",
             link: "https://jimuelzxc.github.io/shopme"
