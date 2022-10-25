@@ -1,5 +1,6 @@
 export const IconsData = {
     tech: [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/240px-Vimlogo.svg.png",
         "https://cdn.worldvectorlogo.com/logos/html-1.svg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png",
         "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
@@ -15,7 +16,7 @@ export const IconsData = {
         "https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Illustrator_CC_icon.png/492px-Illustrator_CC_icon.png",
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzkiV0EX0G3-YQUMFNdC4oP5q440qz9UQcbglo2n7L396JiFxE",
-        "https://www.motc.gov.qa/sites/default/files/adobe_after_effects_basic_intermediate.png",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9lntePqfDFEJ4CrGy9Qe671Lg1u515IlmbN6VIT7af6LUjfh4",
         "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sony-vegas-logo-icon.png",
         "https://rclstn.org/sites/default/files/Frame_2.png",
         "https://smileandacoffee.com/wp-content/uploads/2022/06/Canva.png"
