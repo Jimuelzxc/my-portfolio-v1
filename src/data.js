@@ -46,6 +46,9 @@ export const ProjectsData = {
         }
     ],
     design: [
+				{
+						thumbnail: "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/281084269/original/1d5fa0fc0bd2746ee7ae7ea39eda8c367229194b/create-landing-page-or-website-for-your-business-website.png"
+				},
         {
             thumbnail: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bf3abc154772089.63481f39666ec.jpg",
             link: "https://www.behance.net/gallery/154772089/Cloud9"
